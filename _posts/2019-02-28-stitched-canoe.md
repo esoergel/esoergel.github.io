@@ -5,6 +5,15 @@ date:   2019-02-28
 categories: canoe woodworking
 ---
 
+<style>
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+</style>
+
 After getting sidetracked on a couple other projects, I got back to the canoe.  This is the "stitching" stage, where you go from flat panels to a three-dimensional canoe.
 
 I laced together the bottom edges of the two bottom panels with zip-ties, then opened it up and laced on the second set of panels.  The curves did not line up very well at all here, and I knew the reason why - I'd done an atrocious job of truing up the butt ends of the bottom panels, and had significantly shortened them.
