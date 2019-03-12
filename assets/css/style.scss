@@ -1,0 +1,12 @@
+ ---
+ ---
+
+@import "{{ site.theme }}";
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-height: 600px;
+    vertical-align: middle;
+}
