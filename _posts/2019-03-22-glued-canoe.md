@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stitch-and-Glue Canoe - Gluing"
+title: "Canoe - Joining the Seams"
 date:   2019-03-22
 categories: canoe woodworking
 ---

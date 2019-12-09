@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stitch-and-Glue Canoe - Fitting the Thwarts"
+title: "Canoe - Fitting the Thwarts"
 date:   2019-11-16
 categories: canoe woodworking
 ---

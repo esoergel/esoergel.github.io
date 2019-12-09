@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stitch-and-Glue Canoe - Painting!"
+title: "Canoe - Painting!"
 date:   2019-11-26
 categories: canoe woodworking
 ---

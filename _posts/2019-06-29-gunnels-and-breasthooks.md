@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stitch-and-Glue Canoe - Outwales and Breasthooks"
+title: "Canoe - Outwales and Breasthooks"
 date:   2019-06-29
 categories: canoe woodworking
 ---

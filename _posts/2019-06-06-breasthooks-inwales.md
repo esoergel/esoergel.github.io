@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stitch-and-Glue Canoe - Breasthooks and Inwales"
+title: "Canoe - Breasthooks and Inwales"
 date:   2019-06-06
 categories: canoe woodworking
 ---

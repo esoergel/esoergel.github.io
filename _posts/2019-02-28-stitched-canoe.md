@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stitch-and-Glue Canoe - Stitching"
+title: "Canoe - Stitching"
 date:   2019-02-28
 categories: canoe woodworking
 ---

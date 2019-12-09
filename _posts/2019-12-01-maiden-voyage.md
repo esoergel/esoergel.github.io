@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stitch-and-Glue Canoe - Maiden Voyage"
+title: "Canoe - Maiden Voyage"
 date:   2019-12-01
 categories: canoe woodworking
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stitch-and-Glue Canoe - Yoke and Seats"
+title: "Canoe - Yoke and Seats"
 date:   2019-07-04
 categories: canoe woodworking
 ---
