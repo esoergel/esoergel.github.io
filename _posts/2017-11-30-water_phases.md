@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Culinary Implications of Water's Phase Changes"
+title: "How the Phase Changes of Water Affect Cooking"
 date:   2017-11-30
 categories: food
 ---
