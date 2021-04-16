@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Crib: Prepping the wood"
-date:   2021-02-27
+date:   2021-02-24
 categories: crib woodworking
 ---
 
